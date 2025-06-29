@@ -6,18 +6,6 @@ Projeto desenvolvido como parte de um desafio com o objetivo de criar um dashboa
 
 O objetivo principal era organizar uma base de dados de vendas e construir um painel visual que permitisse a análise de performance através de indicadores chave (KPIs) e gráficos dinâmicos, facilitando a tomada de decisões estratégicas.
 
-## 📊 Dados Utilizados
-
-A fonte de dados foi o arquivo `base.xlsx`, contendo registros de vendas com as seguintes informações:
-* ID-Venda
-* Data da Venda
-* Loja
-* Produto
-* Quantidade Vendida
-* Preço Unitário
-
-Foi criada uma coluna adicional, **"Faturamento Total"**, calculada pela multiplicação da `Quantidade` pelo `Preço Unitário`.
-
 ## 🛠️ Ferramentas e Técnicas Utilizadas
 
 * **Microsoft Excel**
