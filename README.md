@@ -24,7 +24,7 @@ O dashboard finalizado inclui as seguintes análises:
 * Perguntas de Negócio – Análise detalhada do faturamento e comportamento das assinaturas.
 * Ajustes Visuais – Aplicação da paleta de cores personalizada para melhor apresentação.
 
-![Imagem](dashbord_vendas.png)
+![Imagem](dashbord_vendas.PNG)
 
 
 ## 🚀 Como Utilizar
