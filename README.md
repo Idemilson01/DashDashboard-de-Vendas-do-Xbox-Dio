@@ -10,23 +10,26 @@ O objetivo principal era organizar uma base de dados de vendas e construir um pa
 
 * **Microsoft Excel**
     * **Formatação como Tabela:** Para estruturar os dados e garantir a atualização dinâmica.
-    * **Tabelas Dinâmicas (Pivot Tables):** Para sumarizar os dados e servir como base para os gráficos.
-    * **Gráficos Dinâmicos:** Para a visualização dos dados (Gráficos de Barras, Linha e Anel).
-    * **Segmentação de Dados (Slicers):** Para criar filtros interativos que afetam todo o dashboard.
+    * **Tabelas Dinâmicas:** Para sumarizar os dados e servir como base para os gráficos.
+    * **Gráficos Dinâmicos:** Para a visualização dos dados.
+    * **Segmentação de Dados:** Para criar filtros interativos que afetam todo o dashboard.
     * **Fórmulas:** Para criação da coluna calculada de faturamento.
 
-## 📈 Análises Apresentadas no Dashboard
+## 📈 Passo a Passo do Dashboard
 
-O dashboard finalizado (`seu_nome_de_arquivo.xlsx`) inclui as seguintes análises:
+O dashboard finalizado inclui as seguintes análises:
+* Cálculo de Faturamento – Determinação do total de vendas por assinatura e período.
+* Uso de Data View – Organização dos dados para facilitar a navegação e interpretação.
+* Aplicação de Big Numbers – Destaque dos principais indicadores de vendas para uma análise rápida.
+* Perguntas de Negócio – Análise detalhada do faturamento e comportamento das assinaturas.
+* Ajustes Visuais – Aplicação da paleta de cores personalizada para melhor apresentação.
 
-1.  **KPI de Faturamento Total:** Um cartão com o valor total de vendas no período selecionado.
-2.  **Faturamento por Loja:** Um gráfico de barras comparando o desempenho de cada loja.
-3.  **Faturamento por Produto:** Um gráfico de anel mostrando a contribuição de cada produto para o faturamento.
-4.  **Evolução do Faturamento no Tempo:** Um gráfico de linha mostrando as vendas ao longo dos meses.
+![Imagem](dashbord_vendas.png)
+
 
 ## 🚀 Como Utilizar
 
-1.  Faça o download do arquivo `.xlsx` deste repositório.
+1.  Faça o download do arquivo `dashboard_vendas.xlsx` deste repositório.
 2.  Abra o arquivo no Microsoft Excel.
 3.  Navegue até a aba **"Dashboard"**.
-4.  Utilize os filtros de **Loja** e **Produto** no lado esquerdo para interagir com os dados e ver os gráficos se atualizarem em tempo real.
+4.  Utilize os filtros de **Annual**, **Monthly** e **Quarterly** no lado esquerdo para interagir com os dados e ver os gráficos se atualizarem em tempo real.
